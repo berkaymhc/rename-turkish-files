@@ -1,0 +1,11 @@
+# Windows / PowerShell ignore file
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.ps1~
+*.zip
+*.rar
+.DS_Store
